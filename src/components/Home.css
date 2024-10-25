@@ -1,0 +1,13 @@
+body {
+    /* background-image: url(../assets/images/Series.jpg); */
+}
+.inicio {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inicio h1 {
+    padding: 15px;
+    font-size: 45px;
+}
